@@ -1,5 +1,5 @@
 /*!
- * Ghukasyan.me Portfolio - ghukasyan.me portfolio v1.0.0 (https://startbootstrap.com/template-overviews/agency)
+ * Ghukasyan.me Portfolio - ghukasyan.me portfolio v1.0.0 (https://ghukasyan.me)
  * Copyright 2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/ghukasyan.me/blob/master/LICENSE)
  */

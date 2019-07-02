@@ -43,7 +43,7 @@
       "description": "I developed landing websites for Ice Watch watches in Armenia and Georgia. The website is written in PHP with Codeigniter framework. Admin panel <br>The project was developed for Prodigi Digital Agency.",
       "tags": "PHP",
       "tech": ["PHP","Codeigniter","JavaScript","jQuery","Custom Website"]
-    },
+    }, 
     {
       "title": "Customs Rate Calculator",
       "shortDescription": "Landing Website",
