@@ -19,8 +19,10 @@ To begin using this template, choose one of the following options to get started
 ## About
 
 [![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](https://www.yiiframework.com/)
+
+
 ghukasyan.me is the personal portfolio of Michael Ghukasyan.
- 
+
 * https://ghukasyan.me
 * https://twitter.com/redmikay
 * https://github.com/micaelghukasyan
