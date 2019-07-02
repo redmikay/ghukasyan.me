@@ -1,0 +1,63 @@
+// Button Styles
+.btn {
+  @include heading-font;
+  font-weight: 700;
+}
+
+.btn-xl {
+  font-size: 18px;
+  padding: 20px 40px;
+}
+
+.btn-primary {
+  background-color: $primary;
+  border-color: $primary;
+  &:active,
+  &:focus,
+  &:hover {
+    background-color: darken($primary, 7.5%) !important;
+    border-color: darken($primary, 7.5%) !important;
+    color: white;
+  }
+  &:active,
+  &:focus {
+    box-shadow: 0 0 0 0.2rem rgba(254, 209, 55,.5) !important;
+  }
+}
+.btn-start {
+  background-color: transparent;
+  border-color: $white;
+  color: $white;
+  border-width: 2px;
+  border-radius: 0;
+  position: relative;
+  padding: 15px 30px;
+  span {
+    z-index: 1;
+    position: relative;
+  }
+  &:after {
+    content: '';
+    width: 0px;
+    position: absolute;
+    top:0;
+    left: 0;
+    height: 100%;
+    background: $white;
+    transition: .3s all;
+    z-index: 0;
+  }
+  &:active,
+  &:focus,
+  &:hover {
+    &:after {
+      width: 100%;
+    }
+    color: darken($primary, 7.5%);
+    border-color: $white;
+  }
+  &:active,
+  &:focus {
+    box-shadow: none;
+  }
+}

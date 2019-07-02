@@ -1,0 +1,19 @@
+.work-stats {
+  margin: 25px auto 0;
+  .stats {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  .stats .fa {
+    color: darken($primary,1);
+    font-size: 40px;
+  }
+  h5 {
+    font-size: 15px;
+  }
+}
+
+/*/ end count stats /*/

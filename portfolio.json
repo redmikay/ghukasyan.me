@@ -1,0 +1,73 @@
+{
+  "data": [
+    {
+      "title": "EYP Armenia",
+      "shortDescription": "WordPress Website",
+      "thumbnail": "img/portfolio/eyp.am/thumbnail.jpg",
+      "images": ["img/portfolio/eyp.am/01.jpg","img/portfolio/eyp.am/02.jpg","img/portfolio/eyp.am/03.jpg"],
+      "description": "The goal was to develop a modern, lightweight and easily customizable website for 89th International Session of European Youth Parliament. I developed a custom WordPress theme for the project based on Bootstrap 4 framework. The layout of the pages was developed using Elementor plugin to allow users to easily modify page content without programming skills. I also configured Google Analytics. The website is fully responsive and works on all mobile devices. It helped to raise awareness about the event and attract sponsors.",
+      "link": "https://eyp.am/",
+      "tags": "WordPress",
+      "tech": ["WordPress","Elementor","PHP", "Custom Theme"]
+    },
+    {
+      "title": "Kick the Ball",
+      "shortDescription": "JS Game",
+      "thumbnail": "img/portfolio/04-thumbnail.jpg",
+      "tags": "JS Games"
+    },
+    {
+      "title": "Yerevan 2019",
+      "shortDescription": "WordPress Website",
+      "thumbnail": "img/portfolio/02-thumbnail.jpg",
+      "images": ["img/portfolio/01-thumbnail.jpg","img/portfolio/02-thumbnail.jpg","img/portfolio/03-thumbnail.jpg"],
+      "description": "The goal was to develop a modern, lightweight and easily customizable website for 89th International Session of European Youth Parliament. I developed a custom WordPress theme for the project based on Bootstrap 4 framework. The layout of the pages was developed using Elementor plugin to allow users to easily modify page content without programming skills. I also configured Google Analytics. The website is fully responsive and works on all mobile devices. It helped to raise awareness about the event and attract sponsors. https://yerevan2019.am/",
+      "link": "https://yerevan2019.am/",
+      "tags": "WordPress",
+      "tech": ["WordPress","Elementor","PHP", "Custom Theme"]
+    },
+    {
+      "title": "positive.am",
+      "shortDescription": "Website redesign and optimisation",
+      "thumbnail": "img/portfolio/positive/thumbnail.jpg",
+      "images": ["img/portfolio/positive/01.jpg","img/portfolio/positive/02.jpg","img/portfolio/positive/03.jpg"],
+      "description": "Positive.am is a news . I have The layout of the pages was developed using Elementor plugin to allow users to easily modify page content without programming skills. I also configured Google Analytics. The website is fully responsive and works on all mobile devices.",
+      "tags": "PHP",
+      "tech": ["PHP","Yii2","JavaScript","jQuery","Bootstrap","Custom Website","Facebook Instant Articles"]
+    },
+    {
+      "title": "ice-watch.am",
+      "shortDescription": "Catalog Website",
+      "thumbnail": "img/portfolio/ice-watch/thumbnail.jpg",
+      "images": ["img/portfolio/ice-watch/01.jpg","img/portfolio/ice-watch/02.jpg","img/portfolio/ice-watch/03.jpg"],
+      "description": "I developed landing websites for Ice Watch watches in Armenia and Georgia. The website is written in PHP with Codeigniter framework. Admin panel <br>The project was developed for Prodigi Digital Agency.",
+      "tags": "PHP",
+      "tech": ["PHP","Codeigniter","JavaScript","jQuery","Custom Website"]
+    },
+    {
+      "title": "Customs Rate Calculator",
+      "shortDescription": "Landing Website",
+      "thumbnail": "img/portfolio/uic-calc-thumbnail.jpg",
+      "images": ["img/portfolio/ice-watch/01.jpg","img/portfolio/ice-watch/02.jpg","img/portfolio/ice-watch/03.jpg"],
+      "description": "I developed landing websites for Ice Watch watches in Armenia and Georgia. The website is written in PHP with Codeigniter framework. Admin panel <br>The project was developed for Prodigi Digital Agency.",
+      "tags": "PHP",
+      "tech": ["Bootstrap","JavaScript","PHP","SOAP","jQuery","Custom Website"]
+    },
+    {
+      "title": "Alfa Pharm Contacts",
+      "shortDescription": "FB Tab with Google Maps",
+      "thumbnail": "img/portfolio/alfa-pharm-thumbnail.jpg",
+      "tags": "FB Tabs"
+    },
+    {
+      "title": "Sauce Hotel",
+      "shortDescription": "WordPress Website",
+      "thumbnail": "img/portfolio/hotel/thumbnail.jpg",
+      "images": ["img/portfolio/hotel/01.jpg","img/portfolio/hotel/02.jpg","img/portfolio/hotel/03.jpg","img/portfolio/hotel/04.jpg","img/portfolio/hotel/05.jpg","img/portfolio/hotel/06.jpg"],
+      "description": "      I created a fully customizable homepage      The layout of the pages was developed using Elementor plugin to allow users to easily modify page content without programming skills. I also configured Google Analytics. The website is fully responsive and works on all mobile devices.",
+      "link": "https://sauce-hotel.ru/",
+      "tags": "WordPress",
+      "tech": ["WordPress","Elementor","PHP","Veda Theme"]
+    }
+]
+}
