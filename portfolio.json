@@ -47,9 +47,9 @@
     {
       "title": "Customs Rate Calculator",
       "shortDescription": "Landing Website",
-      "thumbnail": "img/portfolio/uic-calc-thumbnail.jpg",
-      "images": ["img/portfolio/ice-watch/01.jpg","img/portfolio/ice-watch/02.jpg","img/portfolio/ice-watch/03.jpg"],
-      "description": "I developed landing websites for Ice Watch watches in Armenia and Georgia. The website is written in PHP with Codeigniter framework. Admin panel <br>The project was developed for Prodigi Digital Agency.",
+      "thumbnail": "img/portfolio/uic/thumbnail.jpg",
+      "images": ["img/portfolio/uic/01.jpg","img/portfolio/uic/02.jpg","img/portfolio/uic/03.jpg"],
+      "description": "Customs rate calculator for imported passenger cars for Union of Informed Cityzens.",
       "tags": "PHP",
       "tech": ["Bootstrap","JavaScript","PHP","SOAP","jQuery","Custom Website"]
     },
