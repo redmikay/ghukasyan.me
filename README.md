@@ -18,13 +18,14 @@ To begin using this template, choose one of the following options to get started
 
 ## About
 
+[![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](https://www.yiiframework.com/)
 ghukasyan.me is the personal portfolio of Michael Ghukasyan.
-
+ 
 * https://ghukasyan.me
 * https://twitter.com/redmikay
 * https://github.com/micaelghukasyan
 
-ghukasyan.me is made using [![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](https://www.yiiframework.com/) and the [Start Bootstrap](https://startbootstrap.com/) by **[David Miller](http://davidmiller.io/)**, which is based on [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+ghukasyan.me is made using Yii2 and the [Start Bootstrap](https://startbootstrap.com/) by **[David Miller](http://davidmiller.io/)**, which is based on [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
 ## License
 
