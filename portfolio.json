@@ -1,39 +1,53 @@
 {
   "data": [
     {
+      "title": "Customs Rate Calculator",
+      "shortDescription": "Landing Website",
+      "thumbnail": "img/portfolio/uic/thumbnail.jpg",
+      "images": ["img/portfolio/uic/01.jpg","img/portfolio/uic/02.jpg","img/portfolio/uic/03.jpg","img/portfolio/uic/04.jpg"],
+      "description": "Customs rate calculator for imported passenger cars in 3 languages. Developed for Union of Informed Cityzens. The websites calculates the Customs duty, VAT and enviromental fee based on the car price, age, engine type and volume. It is awailable in 3 languages and 3 currencies. The exchange rate is fetched form the website of Central Bank of Armenia via SOAP.",
+      "tags": "PHP",
+      "link": "https://calculator.uic.am/",
+      "tech": ["Bootstrap","JavaScript","PHP","SOAP","jQuery","Custom Website"]
+    },
+    {
       "title": "EYP Armenia",
       "shortDescription": "WordPress Website",
       "thumbnail": "img/portfolio/eyp.am/thumbnail.jpg",
       "images": ["img/portfolio/eyp.am/01.jpg","img/portfolio/eyp.am/02.jpg","img/portfolio/eyp.am/03.jpg"],
-      "description": "The goal was to develop a modern, lightweight and easily customizable website for 89th International Session of European Youth Parliament. I developed a custom WordPress theme for the project based on Bootstrap 4 framework. The layout of the pages was developed using Elementor plugin to allow users to easily modify page content without programming skills. I also configured Google Analytics. The website is fully responsive and works on all mobile devices. It helped to raise awareness about the event and attract sponsors.",
+      "description": "eyp.am is the official website of European Youth Parliament Armenia. EYP is a unique educational programme which brings together young people from all over Europe to discuss current topics in a parliamentary setting. As a network of independent associations, EYP is present in 38 European countries with almost 600 events taking place every year. I developed a custom WordPress theme for the project based on Bootstrap 4 framework. The layout of the pages was developed using Elementor plugin to allow users to easily modify page content without programming skills. I also configured Google Analytics. The website is fully responsive and works on all mobile devices.",
       "link": "https://eyp.am/",
       "tags": "WordPress",
-      "tech": ["WordPress","Elementor","PHP", "Custom Theme"]
+      "tech": ["WordPress","Elementor","PHP","Bootstrap", "Custom Theme"]
     },
     {
       "title": "Kick the Ball",
       "shortDescription": "JS Game",
-      "thumbnail": "img/portfolio/04-thumbnail.jpg",
-      "tags": "JS Games"
-    },
-    {
-      "title": "Yerevan 2019",
-      "shortDescription": "WordPress Website",
-      "thumbnail": "img/portfolio/02-thumbnail.jpg",
-      "images": ["img/portfolio/01-thumbnail.jpg","img/portfolio/02-thumbnail.jpg","img/portfolio/03-thumbnail.jpg"],
-      "description": "The goal was to develop a modern, lightweight and easily customizable website for 89th International Session of European Youth Parliament. I developed a custom WordPress theme for the project based on Bootstrap 4 framework. The layout of the pages was developed using Elementor plugin to allow users to easily modify page content without programming skills. I also configured Google Analytics. The website is fully responsive and works on all mobile devices. It helped to raise awareness about the event and attract sponsors. https://yerevan2019.am/",
-      "link": "https://yerevan2019.am/",
-      "tags": "WordPress",
-      "tech": ["WordPress","Elementor","PHP", "Custom Theme"]
+      "thumbnail": "img/portfolio/greenmark/thumbnail.jpg",
+      "images": ["img/portfolio/greenmark/01.jpg","img/portfolio/greenmark/02.jpg","img/portfolio/greenmark/03.jpg","img/portfolio/greenmark/04.jpg"],
+      "description": "I developed a JavaScript game with Phaser.JS framework ahead of FIFA 2018 World Cup. Playes login via Facebook and try to score as many goals as possible. The project was implemented for ProDigi Digital Agency",
+      "link": "https://prodigi.am/apps/green_mark/",
+      "tags": "JS Games",
+      "tech": ["JavaScript","Phaser.JS","HTML5","Facebook Login"]
     },
     {
       "title": "positive.am",
       "shortDescription": "Website redesign and optimisation",
       "thumbnail": "img/portfolio/positive/thumbnail.jpg",
       "images": ["img/portfolio/positive/01.jpg","img/portfolio/positive/02.jpg","img/portfolio/positive/03.jpg"],
-      "description": "Positive.am is a news . I have The layout of the pages was developed using Elementor plugin to allow users to easily modify page content without programming skills. I also configured Google Analytics. The website is fully responsive and works on all mobile devices.",
+      "description": "Positive.am is an entartainmend website written on Yii2 framework. I have redesigned the frontend, implemented new features, configured Facebook Instant Articles and fixed some errors in the code. Load time of the website was reduced by 40% after the update.",
       "tags": "PHP",
       "tech": ["PHP","Yii2","JavaScript","jQuery","Bootstrap","Custom Website","Facebook Instant Articles"]
+    },
+    {
+      "title": "Catch the Phones",
+      "shortDescription": "JS Game",
+      "thumbnail": "img/portfolio/mobile/thumbnail.jpg",
+      "images": ["img/portfolio/mobile/01.jpg","img/portfolio/mobile/02.jpg","img/portfolio/mobile/03.jpg","img/portfolio/mobile/04.jpg"],
+      "description": "This is a JavaScript game with Phaser.JS framework. Playes login via Facebook and try to catch as many phones as possible. The players have 5 lives and with each missed phone they lose one. The goal of the game is to get the maximum score. The project was implemented for ProDigi Digital Agency.",
+      "link": "https://prodigi.am/apps/mobilecentre/",
+      "tags": "JS Games",
+      "tech": ["JavaScript","Phaser.JS","HTML5","Facebook Login"]
     },
     {
       "title": "ice-watch.am",
@@ -43,21 +57,44 @@
       "description": "I developed landing websites for Ice Watch watches in Armenia and Georgia. The website is written in PHP with Codeigniter framework. Admin panel <br>The project was developed for Prodigi Digital Agency.",
       "tags": "PHP",
       "tech": ["PHP","Codeigniter","JavaScript","jQuery","Custom Website"]
-    }, 
-    {
-      "title": "Customs Rate Calculator",
-      "shortDescription": "Landing Website",
-      "thumbnail": "img/portfolio/uic/thumbnail.jpg",
-      "images": ["img/portfolio/uic/01.jpg","img/portfolio/uic/02.jpg","img/portfolio/uic/03.jpg"],
-      "description": "Customs rate calculator for imported passenger cars for Union of Informed Cityzens.",
-      "tags": "PHP",
-      "tech": ["Bootstrap","JavaScript","PHP","SOAP","jQuery","Custom Website"]
     },
     {
-      "title": "Alfa Pharm Contacts",
-      "shortDescription": "FB Tab with Google Maps",
-      "thumbnail": "img/portfolio/alfa-pharm-thumbnail.jpg",
-      "tags": "FB Tabs"
+      "title": "ABC Finance",
+      "shortDescription": "Landing Website",
+      "thumbnail": "img/portfolio/cba/thumbnail.jpg",
+      "images": ["img/portfolio/cba/01.jpg","img/portfolio/cba/02.jpg","img/portfolio/cba/03.jpg"],
+      "description": "Landing website for Central Bank of Armenia dedicated to 'Personal finance month' in Armenia. The aim of the website was to raise financial literacy of the population. It featured a test with 10 question related to personal finances, as well as informative materials and links.",
+      "tags": "PHP",
+      "tech": ["Bootstrap","JavaScript","PHP","jQuery","Custom Website"]
+    },
+    {
+      "title": "Yerevan 2019",
+      "shortDescription": "WordPress Website",
+      "thumbnail": "img/portfolio/yerevan2019/thumbnail.jpg",
+      "images": ["img/portfolio/yerevan2019/01.jpg","img/portfolio/yerevan2019/02.jpg","img/portfolio/yerevan2019/03.jpg"],
+      "description": "The goal was to develop a modern, lightweight and easily customizable website for 89th International Session of European Youth Parliament. I developed a custom WordPress theme for the project based on Bootstrap 4 framework. The layout of the pages was developed using Elementor plugin to allow users to easily modify page content without programming skills. I also configured Google Analytics. The website is fully responsive and works on all mobile devices. It helped to raise awareness about the event and attract sponsors.",
+      "link": "https://yerevan2019.am/",
+      "tags": "WordPress",
+      "tech": ["WordPress","Elementor","PHP", "Custom Theme"]
+    },
+    {
+      "title": "Royal Crush",
+      "shortDescription": "JS Game",
+      "thumbnail": "img/portfolio/royalcrush/thumbnail.jpg",
+      "images": ["img/portfolio/royalcrush/01.jpg","img/portfolio/royalcrush/02.jpg","img/portfolio/royalcrush/03.jpg","img/portfolio/royalcrush/04.jpg","img/portfolio/royalcrush/05.jpg"],
+      "description": "JavaScript “Match 3” game with Phaser.JS framework inspired by famous “Candy Crush” games. The game has 3 levels and is limited in time. Playes login via Facebook and try to score as many points as possible. The project was implemented for ProDigi Digital Agency",
+      "link": "https://prodigi.am/apps/royal-crush/",
+      "tags": "JS Games",
+      "tech": ["JavaScript","Phaser.JS","HTML5","Facebook Login"]
+    },
+    {
+      "title": "FB Contacts",
+      "shortDescription": "FB Tabs with Google Maps",
+      "images": ["img/portfolio/contacts/01.jpg","img/portfolio/contacts/02.jpg"],
+      "description": "Facebook page tabs with Google Maps integration.",
+      "thumbnail": "img/portfolio/contacts/thumbnail.jpg",
+      "tags": "FB Tabs",
+      "tech": ["JavaScript","Google Maps API","jQuery","Facebook SDK","PHP"]
     },
     {
       "title": "Sauce Hotel",
