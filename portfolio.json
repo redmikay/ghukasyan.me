@@ -101,7 +101,7 @@
       "shortDescription": "WordPress Website",
       "thumbnail": "img/portfolio/hotel/thumbnail.jpg",
       "images": ["img/portfolio/hotel/01.jpg","img/portfolio/hotel/02.jpg","img/portfolio/hotel/03.jpg","img/portfolio/hotel/04.jpg","img/portfolio/hotel/05.jpg","img/portfolio/hotel/06.jpg"],
-      "description": "      I created a fully customizable homepage      The layout of the pages was developed using Elementor plugin to allow users to easily modify page content without programming skills. I also configured Google Analytics. The website is fully responsive and works on all mobile devices.",
+      "description": "WordPress website for a hotel. I created a fully customizable homepage and inner pages with custom design based on Veda theme. The layout of the pages was developed using Elementor plugin to allow users to easily modify page content without programming skills. The website is fully responsive and works on all mobile devices.",
       "link": "https://sauce-hotel.ru/",
       "tags": "WordPress",
       "tech": ["WordPress","Elementor","PHP","Veda Theme"]
