@@ -279,7 +279,7 @@ header.masthead .intro-text .intro-heading {
   overflow: hidden;
 }
 
-#services .single-service {
+#services .single-service .inner {
   border: 1px solid rgba(173, 181, 189, 0.7);
   padding: 10px 15px 10px;
   background: #fff;
@@ -288,14 +288,15 @@ header.masthead .intro-text .intro-heading {
   border-radius: 5px;
   -webkit-box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.3);
   box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.3);
+  height: 100%;
 }
 
-#services .single-service:hover {
+#services .single-service .inner:hover {
   -webkit-transform: scale(1.05);
   transform: scale(1.05);
 }
 
-#services .single-service .service-heading {
+#services .single-service .inner .service-heading {
   margin: 15px 0;
   text-transform: none;
 }
@@ -316,6 +317,16 @@ header.masthead .intro-text .intro-heading {
   background: -webkit-gradient(linear, left bottom, left top, from(#b10000), to(#970000));
   background: linear-gradient(to top, #b10000 0%, #970000 100%);
   border-radius: 35%;
+}
+
+@media (max-width: 1199px) {
+  #services .single-service {
+    margin: 0 0 15px;
+    width: 100%;
+  }
+  #services .single-service .inner {
+    width: 100%;
+  }
 }
 
 #portfolio {
