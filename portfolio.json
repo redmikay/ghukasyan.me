@@ -105,6 +105,15 @@
       "link": "https://sauce-hotel.ru/",
       "tags": "WordPress",
       "tech": ["WordPress","Elementor","PHP","Veda Theme"]
-    }
+    },
+    {
+      "title": "Guess the Brand",
+      "shortDescription": "Quiz FB Tab",
+      "images": ["img/portfolio/time-brand/01.jpg","img/portfolio/time-brand/02.jpg","img/portfolio/time-brand/03.jpg","img/portfolio/time-brand/04.jpg"],
+      "description": "Facebook page tabs with Google Maps integration.",
+      "thumbnail": "img/portfolio/time-brand/thumbnail.jpg",
+      "tags": "FB Tabs",
+      "tech": ["JavaScript","Google Maps API","jQuery","Facebook SDK","PHP"]
+    },
 ]
 }
