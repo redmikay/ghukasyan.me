@@ -67,7 +67,9 @@ var myportfolio;
             showModal(item,index) {
               this.modalItem = item;
               this.modalItem.id = 'modal'+index;
-              $('.carousel').carousel(0)
+              $('.carousel').carousel('dispose');
+              $('.carousel').carousel();
+              $('.carousel').carousel(0);
             }
           },
           computed: {
