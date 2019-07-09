@@ -109,11 +109,11 @@
     {
       "title": "Guess the Brand",
       "shortDescription": "Quiz FB Tab",
-      "images": ["img/portfolio/time-brand/01.jpg","img/portfolio/time-brand/02.jpg","img/portfolio/time-brand/03.jpg","img/portfolio/time-brand/04.jpg"],
-      "description": "Facebook page tabs with Google Maps integration.",
-      "thumbnail": "img/portfolio/time-brand/thumbnail.jpg",
+      "images": ["img/portfolio/time-brands/01.jpg","img/portfolio/time-brands/02.jpg","img/portfolio/time-brands/03.jpg","img/portfolio/time-brands/04.jpg"],
+      "description": "Facebook page tab with quiz.",
+      "thumbnail": "img/portfolio/time-brands/thumbnail.jpg",
       "tags": "FB Tabs",
-      "tech": ["JavaScript","Google Maps API","jQuery","Facebook SDK","PHP"]
-    },
+      "tech": ["JavaScript","PHP","jQuery","Facebook Page Tab","Facebook Login"]
+    }
 ]
 }

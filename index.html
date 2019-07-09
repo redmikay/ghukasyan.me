@@ -160,7 +160,7 @@
         </div>
       </div>
       <div class="row" id="portfolio-items">
-        <div v-for="(item, index) in filteredItems" class="col-lg-4 col-sm-6 portfolio-item" @click="showModal(item)">
+        <div v-for="(item, index) in filteredItems" class="col-lg-4 col-sm-6 portfolio-item" @click="showModal(item,index)">
           <a class="portfolio-link" data-toggle="modal" href="#portfolioModal" >
             <div class="portfolio-hover">
               <div class="portfolio-hover-content">
@@ -190,20 +190,20 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-6">
-              <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+              <div :id=modalItem.id class="carousel slide" :data-ride="'carousel'+modalItem.id">
                 <ol class="carousel-indicators">
-                  <li v-for="(item, index) in modalItem.images" data-target="#carouselExampleIndicators" :data-slide-to={index} :class="{ 'active': index === 0 }"></li>
+                  <li v-for="(item, index) in modalItem.images" :data-target="'#'+modalItem.id" :data-slide-to=index :class="{ 'active': index === 0 }"></li>
                 </ol>
                 <div class="carousel-inner">
                   <div v-for="(item, index) in modalItem.images" :class="{ 'active': index === 0 }" class="carousel-item">
-                    <img class="d-block w-100" :src=item alt="First slide">
+                    <img class="d-block w-100" :src=item :alt=modalItem.title>
                   </div>
                 </div>
-                <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                <a class="carousel-control-prev" :href="'#'+modalItem.id" role="button" data-slide="prev">
                   <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                   <span class="sr-only">Previous</span>
                 </a>
-                <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                <a class="carousel-control-next" :href="'#'+modalItem.id" role="button" data-slide="next">
                   <span class="carousel-control-next-icon" aria-hidden="true"></span>
                   <span class="sr-only">Next</span>
                 </a>
