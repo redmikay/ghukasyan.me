@@ -107,6 +107,16 @@
       "tech": ["WordPress","Elementor","PHP","Veda Theme"]
     },
     {
+      "title": "Tribuna.am",
+      "shortDescription": "WordPress Website",
+      "thumbnail": "img/portfolio/tribuna/thumbnail.jpg",
+      "images": ["img/portfolio/tribuna/01.jpg","img/portfolio/tribuna/02.jpg","img/portfolio/tribuna/03.jpg"],
+      "description": "A modern, lightweight and easily customizable website for football news. I developed the website and configured Facebook Instant Articles.",
+      "link": "https://tribuna.am/", 
+      "tags": "WordPress",
+      "tech": ["WordPress","PHP", "Facebook Instant Articles"]
+    },
+    {
       "title": "Guess the Brand",
       "shortDescription": "Quiz FB Tab",
       "images": ["img/portfolio/time-brands/01.jpg","img/portfolio/time-brands/02.jpg","img/portfolio/time-brands/03.jpg","img/portfolio/time-brands/04.jpg"],
