@@ -112,7 +112,7 @@
       "thumbnail": "img/portfolio/tribuna/thumbnail.jpg",
       "images": ["img/portfolio/tribuna/01.jpg","img/portfolio/tribuna/02.jpg","img/portfolio/tribuna/03.jpg"],
       "description": "A modern, lightweight and easily customizable website for football news. I developed the website and configured Facebook Instant Articles.",
-      "link": "https://tribuna.am/", 
+      "link": "https://tribuna.am/",
       "tags": "WordPress",
       "tech": ["WordPress","PHP", "Facebook Instant Articles"]
     },
@@ -124,6 +124,17 @@
       "thumbnail": "img/portfolio/time-brands/thumbnail.jpg",
       "tags": "FB Tabs",
       "tech": ["JavaScript","PHP","jQuery","Facebook Page Tab","Facebook Login"]
+    },
+    {
+      "title": "interesnoznat.com",
+      "shortDescription": "WordPress Website",
+      "thumbnail": "img/portfolio/interesnoznat/thumbnail.jpg",
+      "images": ["img/portfolio/interesnoznat/01.jpg","img/portfolio/interesnoznat/02.jpg","img/portfolio/interesnoznat/03.jpg"],
+      "description": "Made some changes on the webside, optimised performance and added new pages, fixed problems with ads and Facebook Instant Articles.",
+      "link": "https://interesnoznat.com/",
+      "tags": "WordPress",
+      "tech": ["WordPress","PHP", "Facebook Instant Articles"]
     }
+
 ]
 }
